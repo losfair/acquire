@@ -1,25 +1,19 @@
 # acquire
 
-[![Package Version](https://img.shields.io/hexpm/v/acquire)](https://hex.pm/packages/acquire)
-[![Hex Docs](https://img.shields.io/badge/hex-docs-ffaff3)](https://hexdocs.pm/acquire/)
+Digital remake of the ["Acquire"](https://en.wikipedia.org/wiki/Acquire) board game.
 
-```sh
-gleam add acquire
-```
-```gleam
-import acquire
+[Play here](https://acquire.x.invariant.cn/game/)
 
-pub fn main() {
-  // TODO: An example of the project in use
-}
-```
+## Run locally
 
-Further documentation can be found at <https://hexdocs.pm/acquire>.
+Install [Gleam](https://gleam.run/).
 
-## Development
+Then:
 
-```sh
-gleam run   # Run the project
-gleam test  # Run the tests
-gleam shell # Run an Erlang shell
+```bash
+cd frontend
+npm i
+npm run build
+cd ..
+make run
 ```
