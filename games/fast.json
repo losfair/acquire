@@ -1,0 +1,26 @@
+{
+    "rows": 5,
+    "cols": 8,
+    "companies": [
+        {
+            "name": "Sackson",
+            "color": "red",
+            "cliff": 0
+        },
+        {
+            "name": "American",
+            "color": "blue",
+            "cliff": 1
+        },
+        {
+            "name": "Festival",
+            "color": "green",
+            "cliff": 1
+        },
+        {
+            "name": "Continental",
+            "color": "cyan",
+            "cliff": 2
+        }
+    ]
+}

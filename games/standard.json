@@ -1,0 +1,41 @@
+{
+    "rows": 9,
+    "cols": 12,
+    "companies": [
+        {
+            "name": "Sackson",
+            "color": "red",
+            "cliff": 0
+        },
+        {
+            "name": "Tower",
+            "color": "yellow",
+            "cliff": 0
+        },
+        {
+            "name": "American",
+            "color": "blue",
+            "cliff": 1
+        },
+        {
+            "name": "Festival",
+            "color": "green",
+            "cliff": 1
+        },
+        {
+            "name": "Worldwide",
+            "color": "purple",
+            "cliff": 1
+        },
+        {
+            "name": "Continental",
+            "color": "cyan",
+            "cliff": 2
+        },
+        {
+            "name": "Imperial",
+            "color": "orange",
+            "cliff": 2
+        }
+    ]
+}
