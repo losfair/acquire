@@ -2,6 +2,8 @@
 
 Digital remake of the ["Acquire"](https://en.wikipedia.org/wiki/Acquire) board game.
 
+![screenshot](misc/screenshot.webp)
+
 [Play here](https://acquire.x.invariant.cn/game/)
 
 ## Run locally
